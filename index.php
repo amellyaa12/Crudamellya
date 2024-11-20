@@ -125,6 +125,9 @@
              case "tambah_pengguna";
              include("views/from_pengguna.php");
              break;
+             case "edit_pengguna";
+             include("views/from_edit_pengguna.php");
+             break;
              
 
              }
